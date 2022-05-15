@@ -1,0 +1,26 @@
+Fine Project. Fourth File
+
+git init (initialized the git"
+
+git remote add origin "Path"
+
+git pull origin main
+
+git add file name (Adding file to the index)
+
+git commit -m "Adding first commit in local repository" (Commiting single file)
+
+git add -A (Adding multiple files together in the index)
+
+rm -f .git/index.lock (Try deleting index.lock file in your .git directory)
+
+git commit -a -m "Adding 3 files" (Commiting multiple files together)
+
+git config --global user.name "Ajitesh"
+
+git config user.name "Ajitesh"
+
+git config user.email "email id"
+
+git status
+
