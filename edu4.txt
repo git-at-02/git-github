@@ -37,3 +37,5 @@ git checkout master (git checkout to master branch)
 git merge firstbranch (We must checked out from the firstbranch before merging)
 
 git commit -a -m "modifying edu5" (edu5 must be added to the index before it is Commiting)
+
+cat edu5.txt (Display the content of edu5.txt. to effect the modification in edu5.txt on the master branch we need to merge 2 branches)
